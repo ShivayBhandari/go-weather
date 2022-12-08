@@ -23,3 +23,7 @@ go.work
 #env file
 *.env
 .env
+
+#api config gile
+*.apiConfig
+.apiConfig
